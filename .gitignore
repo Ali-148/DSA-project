@@ -1,5 +1,7 @@
 # Prerequisites
 *.d
+*.idea/
+*.vs/
 
 # Compiled Object files
 *.slo

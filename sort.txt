@@ -1,0 +1,21 @@
+ID   Name                     Amount    Date Sold  Discount% Price   
+53   Hydrating Mist           2         11/11/2015 5         13.3    
+23   Moisturizer              9         10/09/2008 5         51.3    
+53   Hydrating Mist           11        09/11/2021 0         14      
+131  Lip Balm                 13        09/05/2021 2.5       225     
+25   Hair Dye                 21        11/12/2003 0         340     
+                                                             0       
+                                                             0       
+                                                             0       
+                                                             0       
+                                                             0       
+                                                             0       
+                                                             0       
+                                                             0       
+                                                             0       
+                                                             0       
+                                                             0       
+                                                             0       
+                                                             0       
+                                                             0       
+                                                             0       
